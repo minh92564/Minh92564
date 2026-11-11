@@ -4,7 +4,6 @@
 #include <cctype>
 using namespace std;
 
-// TODO: gop chung lai chogon hon sau, nhung thoi de vay di chay dc roi
 class phuong_tien {
 private:
     int ma_xe;
